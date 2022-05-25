@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/nduqkpmx2qnt5fse?svg=true)](https://ci.appveyor.com/project/Zicio/highlight)
+
 [Ссылка на GP](https://zicio.github.io/highlight/)
 
 [Ссылка на задание](https://github.com/Zicio/ra16-homeworks/tree/master/hoc/highlight)
